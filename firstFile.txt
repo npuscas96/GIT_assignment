@@ -1,4 +1,4 @@
 Nate added new content.
-This is the initial contents
+Modified the initial contents
 of the first file that
 comprises the project.
